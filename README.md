@@ -1,24 +1,4 @@
-# README
+# ActionCable
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://www.youtube.com/watch?v=t9iubpbqmnM&list=PLHYl8MuZPDRtOOMG4cDZJ2N1TocFaMNYy&index=56&t=278s&ab_channel=TechmakerStudio
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
